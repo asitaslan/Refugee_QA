@@ -1,0 +1,6 @@
+stremlit
+openai
+PyPDF2
+qdrant_client
+sentence_transformers
+transformers
